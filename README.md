@@ -14,18 +14,43 @@
 
 ## About me:
 
-I am a Data Scientist with 2 years of experience in machine learning and data analysis, holding a Master's degree from Germany. I specialize in leveraging data-driven insights to support strategic decision-making and drive business value. With expertise in machine learning models, data pipelines, and storytelling, I have successfully led multiple projects across various industries. My analytical mindset and ability to communicate complex data clearly allow me to deliver impactful solutions. Passionate about innovation, I thrive on using data to solve real-world problems and am dedicated to continuous learning in the evolving field of data science.
+🎯 I help companies transform raw data into actionable insights that enable informed, data-driven decision-making.
+
+👋 About Me
+I am a Data Analyst with over 3 years of experience, specializing in Python, SQL, Power BI, Excel, and Azure. I prepare, model, and visualize complex datasets — turning them into clear dashboards and business intelligence solutions that decision-makers can rely on.
+
+🔧 What I Do
+• Building ETL processes, data warehouses, and reliable databases
+• Creating scalable data models and automating workflows using Power BI and SQL
+• Developing interactive reports and dashboards for analyzing KPIs, trends, and performance
+• Applying predictive models, A/B testing, and statistical analyses to support strategic business decisions
+
+🏆 Achievements & Results
+✔ Developed a Power BI dashboard that reduced monthly reporting time by 40%
+✔ Automated SQL processes, achieving a 25% reduction in errors
+✔ Created a KPI framework now used across three departments for real-time monitoring
+
+🤝 Collaboration & Working Style
+I combine strong technical expertise with clear communication and solution-oriented thinking. My goal is to present complex analyses in a simple, understandable way for all stakeholders — to create real impact.
+
+✨ On a Personal Note
+I love logic puzzles 🧩 and hiking in nature ⛰️ — both inspire me to approach analytical problems creatively.
+
+🚀 Let’s Connect!
+Are you working with data, building a BI team, or just interested in exchanging insights? I’d be happy to connect!
 <br />
 <br />
 
 ## Skills
 <h2>Programming & Data Visualization:</h2>
 <ul>
-  <li>Python (NumPy, SciPy, Pandas, Matplotlib, Plotly, Seaborn, and Scikit-learn)</li>
+  <li>Python</li>
   <li>Excel</li>
   <li>Power BI</li>
   <li>Tableau</li>
-  <li>Superset</li>
+  <li>Azure</li>
+  <li>AWS</li>
+  <li>SQL</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
