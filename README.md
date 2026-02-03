@@ -1,7 +1,7 @@
 ![MasterHead](https://verpex.com/assets/uploads/images/blog/How-To-Become-A-Freelance-Data-Analyst.webp?v=1711104899)
 
 <h1 align="center">Hi 👋, I'm Rajesh Kolkundi</h1>
-<h3 align="center">An enthusiastic data science professional, driven by passion for innovation and insights.</h3>
+<h3 align="center">Professionally Data Engineer, driven by passion for innovation and insights.</h3>
 
 - 🌱 I’m currently honing my skills in **Prompt Engineering**
 
@@ -17,24 +17,20 @@
 🎯 I help companies transform raw data into actionable insights that enable informed, data-driven decision-making.
 
 👋 About Me
-I am a Data Analyst with over 3 years of experience, specializing in Python, SQL, Power BI, Excel, and Azure. I prepare, model, and visualize complex datasets — turning them into clear dashboards and business intelligence solutions that decision-makers can rely on.
+I am a Data Engineer with over 3 years of experience, specializing in Python, SQL, Power BI, Excel, AWS, and Azure. I prepare, model, and visualize complex datasets  turning them into clear dashboards and business intelligence solutions that decision-makers can rely on.
 
 🔧 What I Do
-• Building ETL processes, data warehouses, and reliable databases
-• Creating scalable data models and automating workflows using Power BI and SQL
-• Developing interactive reports and dashboards for analyzing KPIs, trends, and performance
-• Applying predictive models, A/B testing, and statistical analyses to support strategic business decisions
+• Design, build, and monitor high-performance data pipelines with a strong focus on cost optimization, reliability, and low-latency data delivery.
+• Develop robust ETL processes, data warehouses, and production-grade databases that support scalable analytics and business-critical reporting.
+• Create scalable and well-governed data models, enabling efficient data consumption while automating workflows to reduce manual effort and operational overhead.
+• Deliver interactive dashboards and analytical reports to track KPIs, uncover trends, and evaluate business performance, enabling data-driven decision-making across teams.
 
 🏆 Achievements & Results
-✔ Developed a Power BI dashboard that reduced monthly reporting time by 40%
+✔ Developed dashboards that reduced monthly reporting time by 40%
 ✔ Automated SQL processes, achieving a 25% reduction in errors
-✔ Created a KPI framework now used across three departments for real-time monitoring
 
 🤝 Collaboration & Working Style
 I combine strong technical expertise with clear communication and solution-oriented thinking. My goal is to present complex analyses in a simple, understandable way for all stakeholders — to create real impact.
-
-✨ On a Personal Note
-I love logic puzzles 🧩 and hiking in nature ⛰️ — both inspire me to approach analytical problems creatively.
 
 🚀 Let’s Connect!
 Are you working with data, building a BI team, or just interested in exchanging insights? I’d be happy to connect!
