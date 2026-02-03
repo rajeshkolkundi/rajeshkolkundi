@@ -14,7 +14,7 @@
 
 ## About me:
 
-🎯 I help companies transform raw data into actionable insights that enable informed, data-driven decision-making.
+</h3>🎯 I help companies transform raw data into actionable insights that enable informed, data-driven decision-making.</h3>
 
 👋 About Me
 I am a Data Engineer with over 3 years of experience, specializing in Python, SQL, Power BI, Excel, AWS, and Azure. I prepare, model, and visualize complex datasets  turning them into clear dashboards and business intelligence solutions that decision-makers can rely on.
