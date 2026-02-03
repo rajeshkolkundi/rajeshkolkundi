@@ -33,6 +33,7 @@ I am a Data Engineer with over 3 years of experience, specializing in Python, SQ
 ✔ Automated SQL processes, achieving a 25% reduction in errors
 
 🤝 Collaboration & Working Style
+
 I combine strong technical expertise with clear communication and solution-oriented thinking. My goal is to present complex analyses in a simple, understandable way for all stakeholders — to create real impact.
 
 🚀 Let’s Connect!
