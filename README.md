@@ -28,6 +28,7 @@ I am a Data Engineer with over 3 years of experience, specializing in Python, SQ
 • Deliver interactive dashboards and analytical reports to track KPIs, uncover trends, and evaluate business performance, enabling data-driven decision-making across teams.
 
 🏆 Achievements & Results
+
 ✔ Developed dashboards that reduced monthly reporting time by 40%
 ✔ Automated SQL processes, achieving a 25% reduction in errors
 
