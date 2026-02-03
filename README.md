@@ -16,9 +16,11 @@
 
 🎯 I help companies transform raw data into actionable insights that enable informed, data-driven decision-making.
 
+
 👋 About Me
 
 I am a Data Engineer with over 3 years of experience, specializing in Python, SQL, Power BI, Excel, AWS, and Azure. I prepare, model, and visualize complex datasets  turning them into clear dashboards and business intelligence solutions that decision-makers can rely on.
+
 
 🔧 What I Do
 - Design, build, and monitor high-performance data pipelines with a strong focus on cost optimization, reliability, and low-latency data delivery.
@@ -26,19 +28,23 @@ I am a Data Engineer with over 3 years of experience, specializing in Python, SQ
 - Create scalable and well-governed data models, enabling efficient data consumption while automating workflows to reduce manual effort and operational overhead.
 - Deliver interactive dashboards and analytical reports to track KPIs, uncover trends, and evaluate business performance, enabling data-driven decision-making across teams.
 
+
 🏆 Achievements & Results
 
 - Developed dashboards that reduced monthly reporting time by 40%
 - Automated SQL processes, achieving a 25% reduction in errors
 
+
 🤝 Collaboration & Working Style
 
 I combine strong technical expertise with clear communication and solution-oriented thinking. My goal is to present complex analyses in a simple, understandable way for all stakeholders to create real impact.
+
 
 🚀 Let’s Connect!
 Are you working with data, building a BI team, or just interested in exchanging insights? I’d be happy to connect!
 <br />
 <br />
+
 
 ## Skills
 <h2>Programming & Data Visualization:</h2>
